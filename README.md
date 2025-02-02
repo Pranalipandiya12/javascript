@@ -1,2 +1,2 @@
 # javascript
-This is my javascript file
+This is my JavaScript file, I will use this repo to learn JavaScript.
